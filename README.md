@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ngocs3
-- 👀 I’m interested in getting more experience in the work field
-- 🌱 I’m currently learning Operating Systems
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Lillydngocs@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
